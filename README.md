@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1nameAli
+- 👋 Hi, I’m Muhammad Ali Asif
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Nextjs and exploring backend.
 - 💞️ I’m looking to collaborate with companies,startups,clients.
